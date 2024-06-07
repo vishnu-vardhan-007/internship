@@ -89,4 +89,4 @@ The task is to create a "Word Counter" using python programming
 
 
 
-Week 3: The Task is to create Expenses Tracker using Python Programming
+Week 3: The task is to create "Expenses Tracker" using Python Programming
