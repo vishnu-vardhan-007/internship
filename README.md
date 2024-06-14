@@ -90,3 +90,44 @@ The task is to create a "Word Counter" using python programming
 
 
 Week 3: The task is to create "Expense Tracker" using Python Programming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week 4: The task is to create "Password Generator" using Python Programming
