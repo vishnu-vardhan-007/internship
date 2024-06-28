@@ -131,3 +131,29 @@ Week 3: The task is to create "Expense Tracker" using Python Programming
 
 
 Week 4: The task is to create "Password Generator" using Python Programming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week 5&6: The final task is to create the "2048 Game" using python programming
